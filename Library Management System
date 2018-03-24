@@ -1,0 +1,2 @@
+This was the final project in a Databaseand SQL course. I had to create a relational library database containing tables for books, authors, publishers, loans outstanding, number of copiesof each book, individual borrower information, and information about each branch in the system.
+I used MS SQL SERVER 2014 EXPRESS to create the tables and utilized foreign keys used to connect the tables and so allow for the procedures (queries) included to work.
